@@ -2,7 +2,7 @@
 import math
 
 def sprawdzanie(a,b,x):
-    y = a * x + b
+    # y = a * x + b
     if (a > 0):
         print("Funkcja jest rosnaca")
     elif (a==0):
