@@ -1,3 +1,4 @@
+# zadanie 3
 sklep = {
     "Marchew" : "kilogramy",
     "Mleko" : "litry",
